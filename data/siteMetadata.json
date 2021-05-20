@@ -1,8 +1,8 @@
 {
-  "title": "Next.js Starter Blog",
+  "title": "My Digital Garden",
   "author": "Tails Azimuth",
-  "headerTitle": "TailwindBlog",
-  "description": "A blog created with Next.js and Tailwind.css",
+  "headerTitle": "My Digital Garden",
+  "description": "A place for my notes.",
   "language": "en-us",
   "siteUrl": "https://tailwind-nextjs-starter-blog.vercel.app",
   "siteRepo": "https://github.com/timlrx/tailwind-nextjs-starter-blog",

@@ -6,37 +6,9 @@
 
 This is a [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/) blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
 
-## Examples
+## Credits
 
-- [Demo Blog](https://tailwind-nextjs-starter-blog.vercel.app/) - this repo
-- [My personal blog](https://www.timlrx.com) - modified to auto-generate blog posts with dates
-
-Using the template? Happy to accept any PR with modifications made e.g. sub-paths, localization or multiple authors
-
-## Motivation
-
-I wanted to port my existing blog to Nextjs and Tailwind CSS but there was no easy out of the box template to use so I decided to create one.
-
-It is inspired by [Lee Robinson's blog](https://github.com/leerob/leerob.io), but focuses only on static site generation. Design is adapted from [Tailwindlabs blog](https://github.com/tailwindlabs/blog.tailwindcss.com).
-
-I wanted it to be nearly as feature-rich as popular blogging templates like [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) and [Hugo Academic](https://github.com/wowchemy/wowchemy-hugo-modules) but with the best of React's ecosystem and current web development's best practices.
-
-## Features
-
-- Easy styling customization with [Tailwind 2.0](https://blog.tailwindcss.com/tailwindcss-v2)
-- Near perfect lighthouse score - [Lighthouse report](https://www.webpagetest.org/result/210111_DiC1_08f3670c3430bf4a9b76fc3b927716c5/)
-- Lightweight, 43kB first load JS, uses Preact in production build
-- Mobile-friendly view
-- Light and dark theme
-- [MDX - write JSX in markdown documents!](https://mdxjs.com/)
-- Server-side syntax highlighting with [rehype-prism](https://github.com/mapbox/rehype-prism)
-- Math display supported via [KaTeX](https://katex.org/)
-- Automatic image optimization via [next/image](https://nextjs.org/docs/basic-features/image-optimization)
-- Flexible data retrieval with [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote)
-- Support for tags - each unique tag will be its own page
-- Support for nested routing of blog posts
-- Projects page
-- SEO friendly with RSS feed, sitemaps and more!
+Forked from [timlrx](https://github.com/timlrx/tailwind-nextjs-starter-blog) who was inspired by [leerob](https://github.com/leerob/leerob.io).
 
 ## Sample posts
 
